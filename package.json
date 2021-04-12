@@ -1,0 +1,24 @@
+{
+  "name": "discord-slink",
+  "version": "0.0.3",
+  "description": "This is just a simple npm for discord bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucidium123/Discord-Slink.git"
+  },
+  "author": "lucid_dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucidium123/Discord-Slink/issues"
+  },
+  "homepage": "https://github.com/Lucidium123/Discord-Slink#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-fetch": "^2.6.1",
+    "superagent": "^6.1.0"
+  }
+}
